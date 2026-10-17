@@ -12,6 +12,11 @@ A responsive web application designed for university students to explore campus 
 * **Dynamic Interactions:** Client-side DOM manipulation powered by JavaScript for fluid user interactions.
 
 ---
+## 🎮 Preview
+<img width="1440" height="856" alt="Screenshot 1448-05-06 at 7 16 46 PM" src="https://github.com/user-attachments/assets/a00a6944-d3ff-4ddf-a442-e36721fdfdae" />
+
+ 📸
+---
 
 ## 🛠️ Built With
 
